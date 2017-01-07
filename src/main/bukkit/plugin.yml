@@ -1,0 +1,8 @@
+name: QuickShot
+main: pro.marvin.minecraft.quickshot.QuickShot
+version: 1.0.2
+
+commands:
+  qs:
+    description: QuickShot
+    usage: Do /qs for a list of commands.
